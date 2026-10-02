@@ -1,0 +1,15 @@
+# 编译产物
+labs/datalab/btest
+labs/datalab/btest-debug
+labs/datalab/fshow
+labs/datalab/ishow
+labs/datalab/dlc
+*.o
+*.exe
+*~
+
+# 本地编辑器及 Obsidian 状态
+.vscode/
+.obsidian/
+.DS_Store
+Thumbs.db
