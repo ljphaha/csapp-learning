@@ -8,6 +8,15 @@ labs/datalab/dlc
 *.exe
 *~
 
+# Cache Lab 本地生成文件（保留官方参考程序和输入 traces/）
+labs/cachelab/csim
+labs/cachelab/test-trans
+labs/cachelab/tracegen
+labs/cachelab/.marker
+labs/cachelab/.csim_results
+labs/cachelab/trace.*
+labs/cachelab/*-handin.tar
+
 # 本地编辑器及 Obsidian 状态
 .vscode/
 .obsidian/
